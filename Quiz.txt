@@ -1,0 +1,6 @@
+Menguji Pemahaman akan Respon
+Benar atau salahkah bahwa informasi metadata disimpan di dalam body? 
+a.TRUE
+b.FALSE
+Jawaban (b)
+
